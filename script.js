@@ -17,7 +17,7 @@ async function startQuiz(jsonFile, title) {
     currentJsonFile = jsonFile;
     currentTitle = title;
 
-    const response = await fetch(`./data/${jsonFile}`);
+    const response = await fetch(`./${jsonFile}`);
     currentQuestions = await response.json();
     
     if (currentQuestions.length === 0) {
