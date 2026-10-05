@@ -1,0 +1,443 @@
+[
+  {
+    "id": 1,
+    "question": "Muốn tăng tốc độ chu chuyển của tư bản, phải:",
+    "options": [
+      "Tăng thời gian sản xuất và thời gian lưu thông",
+      "Giảm thời gian sản xuất, tăng thời gian lưu thông",
+      "Giảm thời gian lưu thông, tăng thời gian sản xuất",
+      "Giảm thời gian sản xuất và thời gian lưu thông"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 2,
+    "question": "Lợi ích kinh tế là gì?",
+    "options": [
+      "Là lợi ích vật chất và tinh thần thu được từ hoạt động kinh tế của con người",
+      "Là lợi ích vật chất thu được từ hoạt động kinh tế của con người",
+      "Là lợi ích tinh thần thu được từ hoạt động kinh tế của con người",
+      "Cả A, B, C đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "question": "Tiền vàng có thể thực hiện được chức năng nào sau đây?",
+    "options": [
+      "Tiền tệ thế giới",
+      "Thước đo giá trị",
+      "Phương tiện cất trữ",
+      "Cả A, B, C"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4,
+    "question": "Trong nền kinh tế thị trường định hướng XHCN ở Việt Nam, nhà nước quản lí nền kinh tế thông qua:",
+    "options": [
+      "Pháp luật, chiến lược, kế hoạch, quy hoạch, cơ chế chính sách, công cụ kinh tế, cơ chế thị trường",
+      "Cương lĩnh, đường lối, chủ trương, quyết sách lớn",
+      "Bảo đảm ổn định chính trị, xã hội",
+      "Cả A, B, C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "question": "Trong cùng một đơn vị thời gian, lao động giản đơn tạo ra lượng giá trị:",
+    "options": [
+      "Nhiều hơn so với lao động phức tạp",
+      "Ít hơn so với lao động phức tạp",
+      "Tương đương so với lao động phức tạp",
+      "Cả A, B, C đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "question": "Mục đích chính của xuất khẩu tư bản trong chủ nghĩa tư bản độc quyền:",
+    "options": [
+      "Thực hiện giá trị sử dụng hàng hóa",
+      "Thu lợi nhuận nhiều hơn so với đầu tư trong nước",
+      "Giúp đỡ các nước ngoài phát triển",
+      "Cả A, B, C"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "Cơ chế điều tiết của chủ nghĩa tư bản độc quyền nhà nước là:",
+    "options": [
+      "Sự điều tiết của nhà nước và quân sự hóa nền kinh tế",
+      "Cơ chế tập trung quan liêu bao cấp và độc quyền nhà nước",
+      "Cơ chế quản lý và sự can thiệp của các đảng phái chính trị",
+      "Cơ chế thị trường, độc quyền tư nhân và sự can thiệp của nhà nước"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "question": "Đâu là hình thức tổ chức độc quyền liên kết dọc trong chủ nghĩa tư bản độc quyền?",
+    "options": [
+      "Trust",
+      "Syndicate",
+      "Consortium",
+      "Cartel"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "question": "Điều kiện ra đời và tồn tại của sản xuất hàng hóa là:",
+    "options": [
+      "Phân chia xã hội và sự tách biệt tương đối về mặt kinh tế của những người sản xuất",
+      "Phân công lao động xã hội và sự tách biệt tương đối về mặt kinh tế của những người sản xuất",
+      "Phân công lao động xã hội và sự phụ thuộc về mặt kinh tế của những người sản xuất",
+      "Cả A, B, C đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "Trong các yếu tố sau, yếu tố nào là nguồn gốc của giá trị hàng hóa?",
+    "options": [
+      "Kỹ thuật, công nghệ sản xuất",
+      "Máy móc, nhà xưởng",
+      "Lao động của người sản xuất hàng hóa",
+      "Cả A, B, C"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "question": "Lượng giá trị của hàng hóa do nhân tố nào quyết định?",
+    "options": [
+      "Chi phí về máy móc, thiết bị và vật tư, nguyên vật liệu",
+      "Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa",
+      "Chỉ lượng lao động thặng dư của mỗi chủ thể trong việc sản xuất hàng hóa",
+      "Số lượng và chất lượng giá trị sử dụng của hàng hóa"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Một trong những điều kiện để sức lao động trở thành hàng hóa là người lao động:",
+    "options": [
+      "Không có khả năng chi phối sức lao động",
+      "Bị tước đoạt hết mọi tư liệu sản xuất",
+      "Không được tự do về mặt thân thể",
+      "Có tư liệu sản xuất"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "question": "Trong nền kinh tế thị trường định hướng XHCN ở Việt Nam, thành phần kinh tế nào giữ vai trò nền tảng vững chắc của nền kinh tế quốc dân?",
+    "options": [
+      "Chỉ kinh tế nhà nước",
+      "Kinh tế nhà nước và kinh tế tư nhân",
+      "Kinh tế tư nhân và kinh tế tập thể",
+      "Kinh tế nhà nước và kinh tế tập thể"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 14,
+    "question": "Phương pháp sản xuất giá trị thặng dư tương đối được thực hiện trên cơ sở rút ngắn:",
+    "options": [
+      "Thời gian lao động trong ngày",
+      "Thời gian lao động tất yếu",
+      "Thời gian lao động thặng dư",
+      "Cả A, B, C"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Chọn phương án đúng nhất: giới hạn của phương pháp sản xuất giá trị thặng dư tuyệt đối là:",
+    "options": [
+      "Độ dài ngày lao động không thể vượt quá 24 giờ",
+      "Sự đấu tranh quyết liệt của phong trào công nhân đòi giảm giờ làm",
+      "Phụ thuộc vào thể chất và tinh thần của người công nhân",
+      "Cả A, B, C"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 16,
+    "question": "Hàng hóa là sản phẩm của lao động:",
+    "options": [
+      "Để thỏa mãn nhu cầu của con người thông qua trao đổi, mua bán trên thị trường",
+      "Để thỏa mãn nhu cầu tiêu dùng của người sản xuất ra nó",
+      "Để trao đổi, mua bán và cho, tặng",
+      "Cả A, B, C đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "question": "Giới hạn của phương pháp sản xuất giá trị thặng dư tuyệt đối là:",
+    "options": [
+      "Độ dài thời gian lao động tất yếu vượt quá 24 giờ",
+      "Độ dài thời gian lao động thặng dư vượt quá 24 giờ",
+      "Độ dài ngày lao động không thể vượt quá 24 giờ",
+      "Cả A, B, C"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "question": "Giá trị thặng dư siêu ngạch là phần giá trị thặng dư thu được do tăng năng suất lao động cá biệt, làm cho:",
+    "options": [
+      "Giá trị cá biệt của hàng hóa thấp hơn giá trị thị trường của nó",
+      "Giá trị xã hội của hàng hóa lớn hơn giá trị thị trường của nó",
+      "Giá trị cá biệt của hàng hóa lớn hơn giá trị thị trường của nó",
+      "Giá trị xã hội của hàng hóa thấp hơn giá trị thị trường của nó"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "question": "Trong nền kinh tế thị trường định hướng XHCN ở Việt Nam, đâu KHÔNG phải là hình thức phân phối phản ánh tính định hướng XHCN?",
+    "options": [
+      "Thông qua hệ thống an sinh, phúc lợi xã hội",
+      "Theo mức vốn góp và các nguồn lực khác",
+      "Theo kết quả lao động",
+      "Theo hiệu quả kinh tế"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "Nhân tố ảnh hưởng đến lượng giá trị hàng hóa là:",
+    "options": [
+      "Cường độ lao động",
+      "Năng suất lao động",
+      "Mức độ khẩn trương của lao động",
+      "Cả A, B, C đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "Biện pháp cơ bản để có giá trị thặng dư siêu ngạch là:",
+    "options": [
+      "Tăng năng suất lao động cá biệt",
+      "Tăng năng suất lao động xã hội",
+      "Vừa kéo dài ngày lao động, vừa tăng năng suất lao động cá biệt",
+      "Tăng cường độ lao động"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "Chọn câu trả lời đúng nhất: Lợi ích là gì?",
+    "options": [
+      "Là sự thỏa mãn nhu cầu tinh thần",
+      "Là sự thỏa mãn nhu cầu của con người",
+      "Là sự thỏa mãn nhu cầu vật chất",
+      "Cả A, B, C đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "question": "Mối quan hệ giữa tổ chức độc quyền và nhà nước tư sản trong chủ nghĩa tư bản độc quyền nhà nước:",
+    "options": [
+      "Độc lập",
+      "Phụ thuộc và điều tiết kinh tế",
+      "Hợp tác",
+      "Cả A, B, C"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "question": "Nguyên nhân ra đời của chủ nghĩa tư bản độc quyền là do:",
+    "options": [
+      "Tác động của khoa học công nghệ",
+      "Khủng hoảng kinh tế",
+      "Cạnh tranh tự do",
+      "Cả A, B, C"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 25,
+    "question": "Yếu tố nào sau đây KHÔNG thuộc tư bản bất biến?",
+    "options": [
+      "Máy móc, thiết bị, nhà xưởng",
+      "Kết cấu hạ tầng sản xuất",
+      "Tiền lương",
+      "Nguyên liệu"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "question": "Trong chủ nghĩa tư bản độc quyền nhà nước, nhà nước tư sản:",
+    "options": [
+      "Thống trị các tổ chức độc quyền",
+      "Phụ thuộc vào các tổ chức độc quyền",
+      "Bảo vệ lợi ích của giai cấp vô sản",
+      "Không phụ thuộc vào các tổ chức độc quyền"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "question": "Phân công lao động xã hội là:",
+    "options": [
+      "Sự chia nhỏ quá trình sản xuất, mỗi người đảm nhận một công đoạn",
+      "Sự phân chia tư liệu sản xuất giữa các ngành",
+      "Sự phân chia lao động xã hội thành các ngành, nghề khác nhau",
+      "Cả A, B, C"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "question": "Một trong những điều kiện để sức lao động trở thành hàng hóa là người lao động:",
+    "options": [
+      "Không được tự do về mặt thân thể",
+      "Được tự do về mặt thân thể",
+      "Không có khả năng chi phối sức lao động",
+      "Cả A, B, C đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "question": "Tư bản bất biến là bộ phận tư bản dùng để mua:",
+    "options": [
+      "Quan hệ sản xuất",
+      "Lực lượng lao động",
+      "Tư liệu sản xuất",
+      "Tư liệu sinh hoạt"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 30,
+    "question": "Vai trò của lao động trừu tượng trong sản xuất hàng hóa là:",
+    "options": [
+      "Tạo ra giá trị hàng hóa",
+      "Tạo ra giá trị sử dụng của hàng hóa",
+      "Nâng cao năng suất và chất lượng hàng hóa",
+      "Cả A, B, C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "question": "Trong cùng một đơn vị thời gian, lao động phức tạp tạo ra lượng giá trị:",
+    "options": [
+      "Nhiều hơn so với lao động giản đơn",
+      "Ít hơn so với lao động giản đơn",
+      "Tương đương so với lao động giản đơn",
+      "Cả A, B, C đều sai"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "question": "Mục đích của chủ nghĩa tư bản độc quyền nhà nước là bảo vệ lợi ích của:",
+    "options": [
+      "Các doanh nghiệp ngoài độc quyền",
+      "Tổ chức độc quyền",
+      "Giai cấp công nhân",
+      "Các doanh nghiệp nhỏ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "question":"Đâu là tác động tích cực của cạnh tranh?",
+    "options": [
+      "Thúc đẩy sự ptrien của kinh tế thị trường",
+      "Thúc đẩy năng lực thỏa mãn nhu cầu của xã hội",
+      "Thúc đẩy mạnh mẽ tiến bộ khoa học kỹ thuật và sự phát triển lực lưởng sản xất",
+      "Cả A, B, C"  
+    ],
+    "answer": 3
+  },
+  {
+    "id": 34,
+    "question":"Khi giảm thời gian sản xuất và thời gian lưu thông, tốc độ chu chuyển của tư bản sẽ:",
+    "options": [
+      "Tăng",
+      "Giảm",
+      "Không thay đổi",
+      "Cả A, B, C đều sai"
+    ],
+    "answer": 0
+  },  
+  {
+    "id": 35,
+    "question":"Chủ nghĩa tư bản độc quyền ra đời là do sự phát triển của:",
+    "options": [
+      "Tư liệu sinh hoạt",
+      "Tư liệu tiêu dùng",
+      "Lực lượng sản xuất",
+      "Cả A, B, C"
+    ],
+    "answer": 2
+  },  
+  {
+    "id": 36,
+    "question":"Có mấy nhân tố ảnh hưởng đến lượng giá trị hàng hóa?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2
+  },  
+  {
+    "id": 37,
+    "question":"Nguyên nhân xuất khẩu tư bản trong chủ nghĩa tư bản độc quyền là do:",
+    "options": [
+      "Một số nước tư bản 'thiếu tư bản' và một số nước nhỏ lạc hậu thiếu lao động",
+      "Một số nước tư bản 'thừa tư bản' và một số nước nhỏ lạc hậu thiếu tư bản",
+      "Một số nước nhỏ, lạc hậu thiếu lao động",
+      "Một số nước tư bản 'thiếu tư bản'"
+    ],
+    "answer": 1
+  },  
+  {
+    "id": 38,
+    "question":"Quan hệ tỷ lệ về lượng trong trao đổi giữa các hàng hóa với nhau được quy định bởi:",
+    "options": [
+      "Giá trị của hàng hóa",
+      "Quan hệ giữa người mua và người bán",
+      "Tính hữu ích của hàng hóa",
+      "Cả A, B, C"
+    ],
+    "answer": 0   
+  },
+  {
+    "id": 39,
+    "question":"Khi được đùng để biểu hiện và đo lường giá trị các hàng hóa, tiền tệ thực hiện chức năng:",
+    "options": [
+      "Thước đo giá trị",
+      "Phương tiện lưu thông",
+      "Phương tiện cất trữ",
+      "Phương tiện thanh toán"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "question":"Khi được dùng làm môi giới trong trao đổi hàng hóa, tiền tệ thực hiện chức năng:",
+    "options": [
+      "Thước đo giá trị",
+      "Phương tiện lưu thông",
+      "Phương tiện cất trữ",
+      "Phương tiện thanh toán"
+    ],
+    "answer": 1
+  }
+]
+  

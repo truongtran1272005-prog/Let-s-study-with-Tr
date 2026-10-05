@@ -1,0 +1,15 @@
+{
+  "name": "Let's study with Tr",
+  "short_name": "Study with Tr",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "[https://cdn-icons-png.flaticon.com/512/3407/3407024.png](https://cdn-icons-png.flaticon.com/512/3407/3407024.png)",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Let's study with Tr</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#2563eb">
+</head>
+<body>
+
+  <!-- Nút chuyển giao diện Sáng/Tối -->
+  <button id="theme-toggle" class="theme-btn">🌙</button>
+
+  <div class="container">
+    
+    <!-- TRANG CHỦ -->
+    <div id="home-view">
+      <div class="header">
+        <span class="badge">📖Let's study with Tr</span>
+        <h1>Let's study with Tr</h1>
+        <p>Chọn một học phần để bắt đầu làm bài.</p>
+      </div>
+
+      <div class="card-grid">
+        <div class="card" onclick="startQuiz('ktct.json', 'Kinh tế chính trị Mác - Lênin')">
+          <div class="card-number">1</div>
+          <h2>KTCT 108</h2>
+          <p>Mác - Lênin • 40 câu trắc nghiệm</p>
+          <div class="btn-link">Vào làm bài ➔</div>
+        </div>
+      </div>
+      <!-- FOOTER TRANG CHỦ -->
+      <div class="home-footer-box">
+        <div id="quote-box" class="quote-box" onclick="changeQuote()" title="Bấm để đổi câu khác">
+          <span class="quote-icon">💡</span>
+          <span id="quote-text">Trời có bốn mùa Xuân, Hạ, Thu, Đông, nhưng học tập thì chỉ có một mùa: mùa học.</span>
+        </div>
+
+        <div class="author-badge">
+          ⚡ Designed by <strong>Nguyên Trường</strong>
+        </div>
+      </div>
+    </div>
+
+    <!-- TRANG LÀM BÀI -->
+    <div id="quiz-view" class="hidden">
+      <button onclick="goHome()" class="back-btn">⬅ Trang chủ</button>
+      <h2 id="quiz-title">Tên môn học</h2>
+      
+      <div class="quiz-box">
+        <div class="progress-bar-bg">
+          <div id="progress-fill" class="progress-fill"></div>
+        </div>
+
+        <div class="quiz-progress" id="quiz-progress">Câu hỏi 1/40 • Đúng: 0 câu</div>
+        
+
+
+        <h3 id="question-text">Đang tải câu hỏi...</h3>
+        <div id="options-container" class="options-container"></div>
+        
+        <div class="quiz-actions">
+          <button id="next-btn" onclick="nextQuestion()" class="action-btn">Câu tiếp theo ➔</button>
+        </div>
+      </div>
+      <!-- BẢNG MA TRẬN ĐÃ ĐƯỢC CHUYỂN RA NGOÀI QUIZ-BOX -->
+      <div id="question-grid" class="question-grid"></div>
+    </div>
+    </div>
+    <!-- TRANG KẾT QUẢ / CHẤM ĐIỂM -->
+    <div id="result-view" class="hidden">
+      <div class="quiz-box text-center">
+        <h2>🎉 Hoàn thành bài thi!</h2>
+        
+        <!-- 2. HUY HIỆU XẾP LOẠI (MỚI) -->
+        <div id="rank-badge" class="rank-badge">🏆 Xuất sắc</div>
+
+        <div class="score-card">
+          <div class="score-num" id="final-score">0 / 10 điểm</div>
+          <p id="score-details">Bạn trả lời đúng 0/0 câu hỏi</p>
+          <p id="score-percentage" class="score-percentage">Tỷ lệ chính xác: 0%</p>
+        </div>
+
+        <div class="result-actions">
+          <button onclick="restartQuiz()" class="action-btn">🔄 Làm lại bài</button>
+         <!-- NÚT LÀM LẠI CÂU SAI (MỚI) -->
+          <button id="retry-wrong-btn" onclick="retryWrongQuestions()" class="action-btn wrong-btn hidden">❌ Làm lại câu sai (<span id="wrong-count">0</span>)</button>
+          <button onclick="toggleReviewMode()" class="action-btn secondary-btn">🔍 Xem lại đáp án</button>
+          <button onclick="goHome()" class="back-btn">🏠 Trang chủ</button>
+        </div>
+
+        <!-- 3. KHU VỰC HIỂN THỊ DANH SÁCH XEM LẠI ĐÁP ÁN (MỚI) -->
+        <div id="review-container" class="review-container hidden"></div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
